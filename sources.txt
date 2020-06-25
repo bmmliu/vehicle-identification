@@ -1,0 +1,6 @@
+DataSet:
+1. https://www.kaggle.com/swaroopkml/cifar10-pngs-in-folders
+2. https://www.kaggle.com/emadtolba/cifar10-comp
+
+Kaggle resources:
+1. https://www.kaggle.com/skooch/cifar-10-in-tensorflow?select=data_batch_1

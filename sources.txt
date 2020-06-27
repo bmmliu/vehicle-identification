@@ -4,3 +4,4 @@ DataSet:
 
 Kaggle resources:
 1. https://www.kaggle.com/skooch/cifar-10-in-tensorflow?select=data_batch_1
+2. https://www.kaggle.com/batuhan35/vgg19-and-transfer-learning-advanced-level
